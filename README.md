@@ -9,7 +9,7 @@ Ovo je jednostavan README fajl koji služi za testiranje repozitorijuma.
 ## Kako se pokreće
 Samo otvori glavni fajl u svom okruženju.
 t
-dodajem reviewera > Rade
+dodajem reviewera > Ljubu
 PR created
 statuses
 op
