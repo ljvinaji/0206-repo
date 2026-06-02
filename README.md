@@ -12,3 +12,4 @@ test
 dodajem reviewera > Rade
 PR created
 statuses
+novi review
