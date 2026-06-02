@@ -11,3 +11,4 @@ Samo otvori glavni fajl u svom okruženju.
 test
 dodajem reviewera > Rade
 PR created
+statuses
