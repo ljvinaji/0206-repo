@@ -12,7 +12,7 @@ t
 dodajem reviewera > Ljubicicu
 PR created
 statuses
-op
+opdfgdfg
 ops 2 itema
 aaa
 dfgsdfsdf
