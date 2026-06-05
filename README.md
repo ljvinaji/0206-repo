@@ -11,7 +11,7 @@ Samo otvori glavni fajl u svom okruženju.
 t
 dodajem reviewera > Ljubicicu
 PR created
-statuses
+statusessdfsdf
 opdfgdfg
 ops 2 itema
 aaa
